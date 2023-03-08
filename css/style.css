@@ -1,2 +1,11 @@
 
- 
+#nav-bar{
+    position: fixed;
+    top: 0;
+ }
+ .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 3em 15% 0 15%;
+    }
