@@ -9,3 +9,15 @@
     justify-content: space-between;
     margin: 3em 15% 0 15%;
     }
+
+    @media screen and (min-width: 480px) {
+ 
+ 
+        body {
+          background-color: white;
+        }
+      }
+      .flex-container > div {
+        text-align: left;
+        font-size: 25px;
+      }
